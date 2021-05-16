@@ -1,7 +1,10 @@
----------------------------------------------26 / 08 / 2015----------------------------------------------------
+---------------------------------------------09 / 02 / 2021----------------------------------------------------
 
-The problem of uppercases characters in the installation script has been solved .
+The problem of uppercases characters in the installation script has been solved.
 
----------------------------------------------19 / 04 / 2016----------------------------------------------------
+---------------------------------------------16 / 05 / 2021----------------------------------------------------
 
-Removed Inguma from the menu to bypass issue with installation (By Jayson Grace : https://github.com/l50)
+From the menu to bypass issue with installation
+
+
+
